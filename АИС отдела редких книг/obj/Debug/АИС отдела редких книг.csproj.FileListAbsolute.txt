@@ -1,0 +1,51 @@
+C:\Users\dsyna\Desktop\АИС отдела редких книг\bin\Debug\АИС отдела редких книг.exe.config
+C:\Users\dsyna\Desktop\АИС отдела редких книг\bin\Debug\АИС отдела редких книг.exe
+C:\Users\dsyna\Desktop\АИС отдела редких книг\bin\Debug\АИС отдела редких книг.pdb
+C:\Users\dsyna\Desktop\АИС отдела редких книг\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС отдела редких книг.csproj.AssemblyReference.cache
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС_отдела_редких_книг.Form1.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС_отдела_редких_книг.Form2.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС_отдела_редких_книг.Form3.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС_отдела_редких_книг.Properties.Resources.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС отдела редких книг.csproj.GenerateResource.cache
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС отдела редких книг.csproj.CoreCompileInputs.cache
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС отдела редких книг.csproj.CopyComplete
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС отдела редких книг.exe
+C:\Users\dsyna\Desktop\АИС отдела редких книг\obj\Debug\АИС отдела редких книг.pdb
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\bin\Debug\АИС отдела редких книг.exe.config
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\bin\Debug\АИС отдела редких книг.exe
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\bin\Debug\АИС отдела редких книг.pdb
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС отдела редких книг.csproj.AssemblyReference.cache
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addАВТОР.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Form1.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Form2.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Form3.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.АВТОР.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.БИБЛИОТЕКАРЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ВОЗВРАТ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ВЫДАЧА.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ИЗДАТЕЛЬСТВО.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.КНИГА.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ПОЛЬЗОВАТЕЛЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.РОЛЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ТИП_ИЗДАНИЯ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ФОРМУЛЯР.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Forms.ЧИТАТЕЛЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.Properties.Resources.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС отдела редких книг.csproj.GenerateResource.cache
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС отдела редких книг.csproj.CoreCompileInputs.cache
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС отдела редких книг.csproj.CopyComplete
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС отдела редких книг.exe
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС отдела редких книг.pdb
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addБИБЛИОТЕКАРЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addВОЗВРАТ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addВЫДАЧА.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addИЗДАТЕЛЬСТВО.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addКНИГА.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addПОЛЬЗОВАТЕЛЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addРОЛЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addТИП_ИЗДАНИЯ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addФОРМУЛЯР.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.AddForms.addЧИТАТЕЛЬ.resources
+C:\Users\dsyna\Desktop\АИС отдела редких книг — копия (2)\obj\Debug\АИС_отдела_редких_книг.EditForms.EditАВТОР.resources
